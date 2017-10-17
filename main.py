@@ -7,27 +7,36 @@ os.system("clear")
 
 with open("data/slowka.json", "r") as f:
     data = json.load(f)
-    data = data["unit1"]
 
 
-categories = [c for c in data]
+units = {unit: [category for category in data[unit]] for unit in data}
 
-for i, category in zip(range(len(categories)), categories):
+print("\033[92mPick unit\033[0m\n")
+
+for i, unit in zip(range(len(units.keys())), units.keys()):
+	print("\033[92m{}\033[0m. {}".format(i+1, unit))
+
+picked_unit = list(units.keys())[int(input("\n\033[92mUnit\033[0m: "))-1]
+
+os.system("clear")
+print("\033[92mPick categories\033[0m\n")
+
+for i, category in zip(range(len(units[picked_unit])), units[picked_unit]):
     print("\033[92m{}\033[0m. {}".format(i+1, category))
 
 questions = []
-picked = input("\033[92mCategory\033[0m: ")
-picked = picked.split("-")
+picked_category = input("\n\033[92mCategories\033[0m [x/x-y/*]: ")
+picked_category = picked_category.split("-")
 
-if len(picked) > 1:
-	s = slice(int(picked[0])-1, int(picked[1]))
-elif picked[0] == "*":
-	s = slice(len(categories))
+if len(picked_category) > 1:
+	part = slice(int(picked_category[0])-1, int(picked_category[1]))
+elif picked_category[0] == "*":
+	part = slice(0, len(units[unit]))
 else:
-	s = slice(int(picked[0])-1, int(picked[0]))
+	part = slice(int(picked_category[0])-1, int(picked_category[0]))
 
-for category in categories[s]:
-	for word in data[category]:
+for category in units[picked_unit][part]:
+	for word in data[picked_unit][category]:
 		word["category"] = category
 		word["points"] = 1
 		questions.append(word)
