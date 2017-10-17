@@ -1,21 +1,41 @@
 #!/usr/bin/env python3
+import sys
 import json
+
+if len(sys.argv) < 3:
+	print('Usage: ./insert.py "<unit name>" "<category name>"')
+	sys.exit(666)
 
 with open("data/slowka.json", "r") as f:
     data = json.load(f)
 
-if len(data["unit1"]) > 0:
-    counter = len(data["unit1"])-1
-    print("{}. \033[94m{}\033[0m - \033[91m{}\033[0m".format(counter, data["unit1"][-1]["eng"], data["unit1"][-1]["pl"]))
+unit = sys.argv[1]
+category = sys.argv[2]
+
+if unit not in data.keys():
+	data[unit] = {}
+
+if category not in data[unit].keys():
+	data[unit][category] = []
+
+
+if len(data[unit][category]) > 0:
+    counter = len(data[unit][category])-1
+    print("{}: {}. \033[94m{}\033[0m - \033[91m{}\033[0m".format(category, 
+    															 counter, 
+    															 data[unit][category][-1]["eng"], 
+    															 data[unit][category][-1]["pl"]))
 else:
     counter = 0
+
+print("\033[93m{} -> {}\033[0m".format(unit, category))
 
 while True:
     counter += 1
     print("\n{}. ".format(counter), end="")
-    data["unit1"].append({"eng": input("\t\033[94mEnglish\033[0m : ").strip(), 
-                            "pl":  input("\t\033[91mPolish\033[0m  : ").strip() 
+    data[unit][category].append({"eng": input("\t\033[94mEnglish\033[0m : ").strip(), 
+                            	 "pl":  input("\t\033[91mPolish\033[0m  : ").strip() 
                         })
 
-    with open("slowka.json", "w") as f:
+    with open("data/slowka.json", "w") as f:
         json.dump(data, f, indent = 2)
