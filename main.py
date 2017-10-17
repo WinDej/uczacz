@@ -56,7 +56,7 @@ while questions:
 	print("\033[91m Polish\033[0m  : {}".format(question["pl"]))
 	answer = input("\033[96m English\033[0m : ").strip().lower()
 	
-	if question["eng"] == answer:
+	if question["eng"].strip().lower() == answer:
 		counter += 1
 		points += question["points"]
 		print("\n \033[92mCorrect [+{:.2f} point]\033[0m".format(question["points"]))
