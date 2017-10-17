@@ -1,0 +1,1594 @@
+{
+  "unit1": {
+  	"Dane osobowe" : [
+		{
+		  "eng": "age",
+		  "pl": "wiek"
+		},
+		{
+		  "eng": "birth",
+		  "pl": "narodziny"
+		},
+		{
+		  "eng": "date of birth",
+		  "pl": "data urodzenia"
+		},
+		{
+		  "eng": "place of birth",
+		  "pl": "miejsce urodzenia"
+		},
+		{
+		  "eng": "citizen",
+		  "pl": "obywatel"
+		},
+		{
+		  "eng": "divorced",
+		  "pl": "rozwiedziony"
+		},
+		{
+		  "eng": "female",
+		  "pl": "kobieta"
+		},
+		{
+		  "eng": "first name",
+		  "pl": "imi\u0119"
+		},
+		{
+		  "eng": "job",
+		  "pl": "zaw\u00f3d"
+		},
+		{
+		  "eng": "male",
+		  "pl": "m\u0119\u017cczyzna"
+		},
+		{
+		  "eng": "marital status",
+		  "pl": "stan cywilny"
+		},
+		{
+		  "eng": "married",
+		  "pl": "\u017conaty, zam\u0119\u017cna"
+		},
+		{
+		  "eng": "nationality",
+		  "pl": "narodowo\u015b\u0107"
+		},
+		{
+		  "eng": "occupation",
+		  "pl": "zaw\u00f3d wymagaj\u0105cy kwalifikacji"
+		},
+		{
+		  "eng": "personal details",
+		  "pl": "dane osobowe"
+		},
+		{
+		  "eng": "sex",
+		  "pl": "p\u0142e\u0107"
+		},
+		{
+		  "eng": "single",
+		  "pl": "stanu wolnego"
+		},
+		{
+		  "eng": "surname",
+		  "pl": "nazwisko"
+		},
+		{
+		  "eng": "widow",
+		  "pl": "wdowa"
+		},
+		{
+		  "eng": "widower",
+		  "pl": "wdowiec"
+		}
+	],
+	"Części ciała": [
+		{
+		  "eng": "ankle",
+		  "pl": "kostka"
+		},
+		{
+		  "eng": "arm",
+		  "pl": "r\u0119ka"
+		},
+		{
+		  "eng": "back",
+		  "pl": "plecy"
+		},
+		{
+		  "eng": "body",
+		  "pl": "cia\u0142o"
+		},
+		{
+		  "eng": "bottom",
+		  "pl": "pupa"
+		},
+		{
+		  "eng": "chest",
+		  "pl": "klatka piersiowa"
+		},
+		{
+		  "eng": "elbow",
+		  "pl": "\u0142okie\u0107"
+		},
+		{
+		  "eng": "finger",
+		  "pl": "palec u d\u0142oni"
+		},
+		{
+		  "eng": "fist",
+		  "pl": "pi\u0119\u015b\u0107"
+		},
+		{
+		  "eng": "foot",
+		  "pl": "stopa"
+		},
+		{
+		  "eng": "feet",
+		  "pl": "stopy"
+		},
+		{
+		  "eng": "forearm",
+		  "pl": "przedrami\u0119"
+		},
+		{
+		  "eng": "hand",
+		  "pl": "r\u0119ka (dłoń)"
+		},
+		{
+		  "eng": "head",
+		  "pl": "g\u0142owa"
+		},
+		{
+		  "eng": "heel",
+		  "pl": "pi\u0119ta"
+		},
+		{
+		  "eng": "hip",
+		  "pl": "biodro"
+		},
+		{
+		  "eng": "knee",
+		  "pl": "kolano"
+		},
+		{
+		  "eng": "leg",
+		  "pl": "noga"
+		},
+		{
+		  "eng": "neck",
+		  "pl": "szyja"
+		},
+		{
+		  "eng": "shoulder",
+		  "pl": "rami\u0119"
+		},
+		{
+		  "eng": "skin",
+		  "pl": "sk\u00f3ra"
+		},
+		{
+		  "eng": "stomach",
+		  "pl": "brzuch"
+		},
+		{
+		  "eng": "thigh",
+		  "pl": "udo"
+		},
+		{
+		  "eng": "thumb",
+		  "pl": "kciuk"
+		},
+		{
+		  "eng": "toe",
+		  "pl": "palec u stopy"
+		},
+		{
+		  "eng": "waist",
+		  "pl": "talia"
+		},
+		{
+		  "eng": "wrist",
+		  "pl": "nadgarstek"
+		},
+		{
+		  "eng": "cheek",
+		  "pl": "policzek"
+		},
+		{
+		  "eng": "chin",
+		  "pl": "podbr\u00f3dek"
+		},
+		{
+		  "eng": "ear",
+		  "pl": "ucho"
+		},
+		{
+		  "eng": "eye",
+		  "pl": "oko"
+		},
+		{
+		  "eng": "eyebrow",
+		  "pl": "brew"
+		},
+		{
+		  "eng": "eyelash",
+		  "pl": "rz\u0119sa"
+		},
+		{
+		  "eng": "face",
+		  "pl": "twarz"
+		},
+		{
+		  "eng": "forehead",
+		  "pl": "czo\u0142o"
+		},
+		{
+		  "eng": "jaw",
+		  "pl": "szcz\u0119ka"
+		},
+		{
+		  "eng": "lip",
+		  "pl": "warga"
+		},
+		{
+		  "eng": "mouth",
+		  "pl": "usta"
+		},
+		{
+		  "eng": "nose",
+		  "pl": "nos"
+		},
+		{
+		  "eng": "throat",
+		  "pl": "gard\u0142o"
+		},
+		{
+		  "eng": "tongue",
+		  "pl": "j\u0119zyk"
+		},
+		{
+		  "eng": "tooth",
+		  "pl": "z\u0105b"
+		},
+		{
+		  "eng": "teeth",
+		  "pl": "z\u0119by"
+		}
+	],
+	"Ubrania i akcesoria": [
+		{
+		  "eng": "casual",
+		  "pl": "nieformalny"
+		},
+		{
+		  "eng": "classy",
+		  "pl": "szykowny"
+		},
+		{
+		  "eng": "dress code",
+		  "pl": "zasady dotycz\u0105ce ubioru"
+		},
+		{
+		  "eng": "elegant",
+		  "pl": "elegancki"
+		},
+		{
+		  "eng": "fashionable",
+		  "pl": "modny"
+		},
+		{
+		  "eng": "formal",
+		  "pl": "formalny"
+		},
+		{
+		  "eng": "label",
+		  "pl": "metka"
+		},
+		{
+		  "eng": "designer labels",
+		  "pl": "ubrania od znanych projektant\u00f3w"
+		},
+		{
+		  "eng": "outfit",
+		  "pl": "str\u00f3j"
+		},
+		{
+		  "eng": "quality",
+		  "pl": "jako\u015b\u0107"
+		},
+		{
+		  "eng": "good quality",
+		  "pl": "dobrej jako\u015bci"
+		},
+		{
+		  "eng": "stunning",
+		  "pl": "ol\u015bniewaj\u0105cy"
+		},
+		{
+		  "eng": "style",
+		  "pl": "styl"
+		},
+		{
+		  "eng": "stylish",
+		  "pl": "stylowy"
+		},
+		{
+		  "eng": "anorak",
+		  "pl": "kurtka przeciwdeszczowa"
+		},
+		{
+		  "eng": "blouse",
+		  "pl": "bluzka"
+		},
+		{
+		  "eng": "boxer shorts",
+		  "pl": "bokserki"
+		},
+		{
+		  "eng": "bra",
+		  "pl": "stanik"
+		},
+		{
+		  "eng": "clothes",
+		  "pl": "ubrania"
+		},
+		{
+		  "eng": "coat",
+		  "pl": "p\u0142aszcz"
+		},
+		{
+		  "eng": "dress",
+		  "pl": "sukienka"
+		},
+		{
+		  "eng": "jacket",
+		  "pl": "marynarka, \u017cakiet, kurtka"
+		},
+		{
+		  "eng": "jeans",
+		  "pl": "d\u017cinsy"
+		},
+		{
+		  "eng": "jumper",
+		  "pl": "sweter"
+		},
+		{
+		  "eng": "pants",
+		  "pl": "majtki, spodnie"
+		},
+		{
+		  "eng": "pullover",
+		  "pl": "pulower"
+		},
+		{
+		  "eng": "pyjamas",
+		  "pl": "pi\u017cama"
+		},
+		{
+		  "eng": "shirt",
+		  "pl": "koszula"
+		},
+		{
+		  "eng": "shorts",
+		  "pl": "szorty"
+		},
+		{
+		  "eng": "skirt",
+		  "pl": "sp\u00f3dnica"
+		},
+		{
+		  "eng": "sock",
+		  "pl": "skarpetka"
+		},
+		{
+		  "eng": "suit",
+		  "pl": "garnitur"
+		},
+		{
+		  "eng": "sweater",
+		  "pl": "sweter"
+		},
+		{
+		  "eng": "sweatpants",
+		  "pl": "spodnie dresowe"
+		},
+		{
+		  "eng": "sweatshirt",
+		  "pl": "bluza"
+		},
+		{
+		  "eng": "hooded sweatshirt",
+		  "pl": "bluza z kapturem"
+		},
+		{
+		  "eng": "tie",
+		  "pl": "krawat"
+		},
+		{
+		  "eng": "tights",
+		  "pl": "rajstopy"
+		},
+		{
+		  "eng": "top",
+		  "pl": "top"
+		},
+		{
+		  "eng": "football top",
+		  "pl": "koszulka pi\u0142karska"
+		},
+		{
+		  "eng": "tracksuit",
+		  "pl": "dres"
+		},
+		{
+		  "eng": "tracksuit bottoms",
+		  "pl": "spodnie od dresu"
+		},
+		{
+		  "eng": "trousers",
+		  "pl": "spodnie"
+		},
+		{
+		  "eng": "t-shirt",
+		  "pl": "podkoszulek"
+		},
+		{
+		  "eng": "underpants",
+		  "pl": "slipy"
+		},
+		{
+		  "eng": "underwear",
+		  "pl": "bielizna"
+		},
+		{
+		  "eng": "uniform",
+		  "pl": "mundur"
+		},
+		{
+		  "eng": "school uniform",
+		  "pl": "mundurek szkolny"
+		},
+		{
+		  "eng": "accessories",
+		  "pl": "akcesoria"
+		},
+		{
+		  "eng": "baseball cap",
+		  "pl": "czapka z daszkiem"
+		},
+		{
+		  "eng": "belt",
+		  "pl": "pasek"
+		},
+		{
+		  "eng": "boots",
+		  "pl": "kozaki"
+		},
+		{
+		  "eng": "bracelet",
+		  "pl": "bransoletka"
+		},
+		{
+		  "eng": "briefcase",
+		  "pl": "teczka, akt\u00f3wka"
+		},
+		{
+		  "eng": "earrings",
+		  "pl": "kolczyki"
+		},
+		{
+		  "eng": "flat shoes",
+		  "pl": "buty na p\u0142askim obcasie"
+		},
+		{
+		  "eng": "glasses",
+		  "pl": "okulary"
+		},
+		{
+		  "eng": "gloves",
+		  "pl": "r\u0119kawiczki"
+		},
+		{
+		  "eng": "handbag",
+		  "pl": "torebka"
+		},
+		{
+		  "eng": "hat",
+		  "pl": "kapelusz"
+		},
+		{
+		  "eng": "high-heeled shoes",
+		  "pl": "buty na wysokim obcasie"
+		},
+		{
+		  "eng": "jewellery",
+		  "pl": "bi\u017cuteria"
+		},
+		{
+		  "eng": "necklace",
+		  "pl": "naszyjnik"
+		},
+		{
+		  "eng": "piercing",
+		  "pl": "piercing"
+		},
+		{
+		  "eng": "sandals",
+		  "pl": "sanda\u0142y"
+		},
+		{
+		  "eng": "scarf",
+		  "pl": "szalik, apaszka"
+		},
+		{
+		  "eng": "shoes",
+		  "pl": "buty"
+		},
+		{
+		  "eng": "sneakers",
+		  "pl": "tenis\u00f3wki"
+		},
+		{
+		  "eng": "sunglasses",
+		  "pl": "okulary przeciws\u0142oneczne"
+		},
+		{
+		  "eng": "trainers",
+		  "pl": "buty sportowe"
+		},
+		{
+		  "eng": "woolly hat",
+		  "pl": "czapka zimowa"
+		},
+		{
+		  "eng": "baggy",
+		  "pl": "lu\u017any"
+		},
+		{
+		  "eng": "checked",
+		  "pl": "w krat\u0119"
+		},
+		{
+		  "eng": "comfortable",
+		  "pl": "wygodny"
+		},
+		{
+		  "eng": "cotton",
+		  "pl": "bawe\u0142niany"
+		},
+		{
+		  "eng": "denim",
+		  "pl": "d\u017cinsowy"
+		},
+		{
+		  "eng": "knitted",
+		  "pl": "zrobiony na drutach"
+		},
+		{
+		  "eng": "leather",
+		  "pl": "sk\u00f3rzany"
+		},
+		{
+		  "eng": "lightweight",
+		  "pl": "lekki"
+		},
+		{
+		  "eng": "patterned",
+		  "pl": "wzorzysty"
+		},
+		{
+		  "eng": "silk",
+		  "pl": "jedwabny"
+		},
+		{
+		  "eng": "sleeveless",
+		  "pl": "bez r\u0119kaw\u00f3w"
+		},
+		{
+		  "eng": "striped",
+		  "pl": "w paski"
+		},
+		{
+		  "eng": "tight",
+		  "pl": "obcis\u0142y"
+		},
+		{
+		  "eng": "waterproof",
+		  "pl": "nieprzemakalny"
+		},
+		{
+		  "eng": "woolly",
+		  "pl": "we\u0142niany"
+		},
+		{
+		  "eng": "dress",
+		  "pl": "ubiera\u0107 si\u0119"
+		},
+		{
+		  "eng": "fit",
+		  "pl": "pasowa\u0107 pod wzgl\u0119dem rozmiaru"
+		},
+		{
+		  "eng": "match",
+		  "pl": "pasowa\u0107 pod wzgl\u0119dem koloru, wzoru"
+		},
+		{
+		  "eng": "suit",
+		  "pl": "pasowa\u0107 do osoby"
+		},
+		{
+		  "eng": "wear",
+		  "pl": "nosi\u0107, mie\u0107 na sobie"
+		},
+		{
+		  "eng": "dress up",
+		  "pl": "ubiera\u0107 si\u0119 elegancko"
+		},
+		{
+		  "eng": "dress up as sb/sth",
+		  "pl": "przebra\u0107 si\u0119 za kogo\u015b/co\u015b"
+		},
+		{
+		  "eng": "get a haircut",
+		  "pl": "ostrzyc si\u0119"
+		},
+		{
+		  "eng": "get dressed",
+		  "pl": "ubra\u0107 si\u0119"
+		},
+		{
+		  "eng": "get one's hair done",
+		  "pl": "zosta\u0107 uczesanym przez fryzjera"
+		},
+		{
+		  "eng": "get one's nails done",
+		  "pl": "p\u00f3j\u015b\u0107 do manikiurzystki"
+		},
+		{
+		  "eng": "go to a fancy-dress party",
+		  "pl": "i\u015b\u0107 na bal kostiumowy"
+		},
+		{
+		  "eng": "iron a shirt",
+		  "pl": "wyprasowa\u0107 koszul\u0119"
+		},
+		{
+		  "eng": "polish shoes",
+		  "pl": "wypastowa\u0107 buty"
+		},
+		{
+		  "eng": "put on clothes",
+		  "pl": "zak\u0142ada\u0107 ubranie"
+		},
+		{
+		  "eng": "put on make-up",
+		  "pl": "nak\u0142ada\u0107 makija\u017c"
+		},
+		{
+		  "eng": "take off clothes",
+		  "pl": "zdj\u0105\u0107 z siebie ubranie"
+		}
+	],
+	"Wygląd zewnętrzny" : [
+		{
+		  "eng": "attractive",
+		  "pl": "atrakcyjny"
+		},
+		{
+		  "eng": "beautiful",
+		  "pl": "pi\u0119kny"
+		},
+		{
+		  "eng": "good-looking",
+		  "pl": "przystojny, atrakcyjny"
+		},
+		{
+		  "eng": "gorgeous",
+		  "pl": "ol\u015bniewaj\u0105cy"
+		},
+		{
+		  "eng": "handsome",
+		  "pl": "przystojny"
+		},
+		{
+		  "eng": "pretty",
+		  "pl": "\u0142adny"
+		},
+		{
+		  "eng": "scruffy",
+		  "pl": "niechlujny"
+		},
+		{
+		  "eng": "ugly",
+		  "pl": "brzydki"
+		},
+		{
+		  "eng": "child",
+		  "pl": "dziecko"
+		},
+		{
+		  "eng": "children",
+		  "pl": "dzieci"
+		},
+		{
+		  "eng": "elderly",
+		  "pl": "w starszym wieku"
+		},
+		{
+		  "eng": "in his/her early twenties",
+		  "pl": "po dwudziestce"
+		},
+		{
+		  "eng": "in his/her late thirties",
+		  "pl": "przed czterdziestk\u0105"
+		},
+		{
+		  "eng": "in his/her mid fifties",
+		  "pl": "oko\u0142o pi\u0119\u0107dziesi\u0119ciu pi\u0119ciu lat"
+		},
+		{
+		  "eng": "middle-aged",
+		  "pl": "w \u015brednim wieku"
+		},
+		{
+		  "eng": "old",
+		  "pl": "stary"
+		},
+		{
+		  "eng": "teenager",
+		  "pl": "nastolatek"
+		},
+		{
+		  "eng": "young",
+		  "pl": "m\u0142ody"
+		},
+		{
+		  "eng": "foot",
+		  "pl": "stopa (jednostka miary)"
+		},
+		{
+		  "eng": "six foot two",
+		  "pl": "6 st\u00f3p 2 cale (187.96cm)"
+		},
+		{
+		  "eng": "height",
+		  "pl": "wzrost"
+		},
+		{
+		  "eng": "medium height",
+		  "pl": "\u015bredniego wzrostu"
+		},
+		{
+		  "eng": "short",
+		  "pl": "niski"
+		},
+		{
+		  "eng": "tall",
+		  "pl": "wysoki"
+		},
+		{
+		  "eng": "broad shoulders",
+		  "pl": "szerokie ramiona"
+		},
+		{
+		  "eng": "build",
+		  "pl": "budowa cia\u0142a"
+		},
+		{
+		  "eng": "athletic build",
+		  "pl": "sportowa sylwetka"
+		},
+		{
+		  "eng": "fat",
+		  "pl": "gruby"
+		},
+		{
+		  "eng": "fit",
+		  "pl": "w dobrej formie, wysportowany"
+		},
+		{
+		  "eng": "muscular arms",
+		  "pl": "umi\u0119\u015bnione r\u0119ce"
+		},
+		{
+		  "eng": "overweight",
+		  "pl": "z nadwag\u0105"
+		},
+		{
+		  "eng": "plump",
+		  "pl": "puszysty"
+		},
+		{
+		  "eng": "skinny",
+		  "pl": "chudy"
+		},
+		{
+		  "eng": "slim",
+		  "pl": "szczup\u0142y"
+		},
+		{
+		  "eng": "well-built",
+		  "pl": "dobrze zbudowany"
+		},
+		{
+		  "eng": "bald",
+		  "pl": "\u0142ysy"
+		},
+		{
+		  "eng": "curly",
+		  "pl": "kr\u0119cone"
+		},
+		{
+		  "eng": "dark",
+		  "pl": "ciemne"
+		},
+		{
+		  "eng": "dyed",
+		  "pl": "farbowane"
+		},
+		{
+		  "eng": "fair",
+		  "pl": "jasne"
+		},
+		{
+		  "eng": "fringe",
+		  "pl": "grzywka"
+		},
+		{
+		  "eng": "ginger",
+		  "pl": "rude"
+		},
+		{
+		  "eng": "grey",
+		  "pl": "siwe"
+		},
+		{
+		  "eng": "hair",
+		  "pl": "w\u0142osy"
+		},
+		{
+		  "eng": "ponytail",
+		  "pl": "kucyk"
+		},
+		{
+		  "eng": "shiny",
+		  "pl": "l\u015bni\u0105ce"
+		},
+		{
+		  "eng": "shoulder-length",
+		  "pl": "do ramion"
+		},
+		{
+		  "eng": "spiky",
+		  "pl": "nastroszone"
+		},
+		{
+		  "eng": "straight",
+		  "pl": "proste"
+		},
+		{
+		  "eng": "wavy",
+		  "pl": "faliste"
+		},
+		{
+		  "eng": "appearance",
+		  "pl": "wygl\u0105d"
+		},
+		{
+		  "eng": "beard",
+		  "pl": "broda"
+		},
+		{
+		  "eng": "complexion",
+		  "pl": "cera"
+		},
+		{
+		  "eng": "pale complexion",
+		  "pl": "blada cera"
+		},
+		{
+		  "eng": "tanned complexion",
+		  "pl": "opalona cera"
+		},
+		{
+		  "eng": "freckles",
+		  "pl": "piegi"
+		},
+		{
+		  "eng": "go bald",
+		  "pl": "\u0142ysie\u0107"
+		},
+		{
+		  "eng": "looks",
+		  "pl": "wygl\u0105d"
+		},
+		{
+		  "eng": "make-up",
+		  "pl": "makija\u017c"
+		},
+		{
+		  "eng": "moustache",
+		  "pl": "w\u0105sy"
+		},
+		{
+		  "eng": "put on weight",
+		  "pl": "przybiera\u0107 na wadze"
+		},
+		{
+		  "eng": "scar",
+		  "pl": "blizna"
+		},
+		{
+		  "eng": "shave one's head",
+		  "pl": "ogoli\u0107 sobie g\u0142ow\u0119"
+		},
+		{
+		  "eng": "smile",
+		  "pl": "u\u015bmiech"
+		},
+		{
+		  "eng": "lovely smile",
+		  "pl": "\u0142adny u\u015bmiech"
+		},
+		{
+		  "eng": "tattoo",
+		  "pl": "tatua\u017c"
+		},
+		{
+		  "eng": "wrinkles",
+		  "pl": "zmarszczki"
+		}
+	],
+	"Cechy charakteru": [
+		{
+		  "eng": "aggressive",
+		  "pl": "agresywny"
+		},
+		{
+		  "eng": "ambitious",
+		  "pl": "ambitny"
+		},
+		{
+		  "eng": "apologetic",
+		  "pl": "przepraszaj\u0105cy"
+		},
+		{
+		  "eng": "argumentative",
+		  "pl": "lubi\u0105cy dyskutowa\u0107, k\u0142\u00f3tliwy"
+		},
+		{
+		  "eng": "arrogant",
+		  "pl": "arogancki"
+		},
+		{
+		  "eng": "artistic",
+		  "pl": "uzdolniony artystycznie"
+		},
+		{
+		  "eng": "bossy",
+		  "pl": "apodyktyczny"
+		},
+		{
+		  "eng": "brave",
+		  "pl": "odwa\u017cny"
+		},
+		{
+		  "eng": "bright",
+		  "pl": "bystry"
+		},
+		{
+		  "eng": "calm",
+		  "pl": "opanowany"
+		},
+		{
+		  "eng": "careful",
+		  "pl": "ostro\u017cny"
+		},
+		{
+		  "eng": "careless",
+		  "pl": "nieostro\u017cny"
+		},
+		{
+		  "eng": "caring",
+		  "pl": "troskliwy"
+		},
+		{
+		  "eng": "cheerful",
+		  "pl": "radosny"
+		},
+		{
+		  "eng": "clever",
+		  "pl": "zdolny, inteligentny, sprytny"
+		},
+		{
+		  "eng": "cold",
+		  "pl": "osch\u0142y, ch\u0142odny"
+		},
+		{
+		  "eng": "compassionate",
+		  "pl": "wsp\u00f3\u0142czuj\u0105cy"
+		},
+		{
+		  "eng": "conceited",
+		  "pl": "zarozumia\u0142y"
+		},
+		{
+		  "eng": "confident",
+		  "pl": "pewny siebie"
+		},
+		{
+		  "eng": "cruel",
+		  "pl": "okrutny"
+		},
+		{
+		  "eng": "dependent",
+		  "pl": "zale\u017cny, na czyim\u015b utrzymaniu"
+		},
+		{
+		  "eng": "independent",
+		  "pl": "niezale\u017cny"
+		},
+		{
+		  "eng": "disciplined",
+		  "pl": "zdyscyplinowany"
+		},
+		{
+		  "eng": "dull",
+		  "pl": "nieciekawy"
+		},
+		{
+		  "eng": "easy-going",
+		  "pl": "w obej\u015bciu, wyluzowany"
+		},
+		{
+		  "eng": "friendly",
+		  "pl": "przyjazny"
+		},
+		{
+		  "eng": "unfriendly",
+		  "pl": "nieprzyjazny"
+		},
+		{
+		  "eng": "funny",
+		  "pl": "zabawny"
+		},
+		{
+		  "eng": "generous",
+		  "pl": "szczodry, wspania\u0142omy\u015blny, uczynny"
+		},
+		{
+		  "eng": "gentle",
+		  "pl": "\u0142agodny"
+		},
+		{
+		  "eng": "hard-working",
+		  "pl": "pracowity"
+		},
+		{
+		  "eng": "helpful",
+		  "pl": "uczynny, pomocny"
+		},
+		{
+		  "eng": "honest",
+		  "pl": "uczciwy"
+		},
+		{
+		  "eng": "hishonest",
+		  "pl": "nieuczciwy"
+		},
+		{
+		  "eng": "hospitable",
+		  "pl": "go\u015bcinny"
+		},
+		{
+		  "eng": "insecure",
+		  "pl": "niepewny"
+		},
+		{
+		  "eng": "intelligent",
+		  "pl": "inteligentny"
+		},
+		{
+		  "eng": "irony",
+		  "pl": "ironia"
+		},
+		{
+		  "eng": "kind",
+		  "pl": "mi\u0142y, uprzejmy"
+		},
+		{
+		  "eng": "unkind",
+		  "pl": "niemi\u0142y, nieuprzejmy"
+		},
+		{
+		  "eng": "kind-hearted",
+		  "pl": "dobrotliwy, o wielkim sercu"
+		},
+		{
+		  "eng": "lazy",
+		  "pl": "leniwy"
+		},
+		{
+		  "eng": "lively",
+		  "pl": "\u017cywio\u0142owy"
+		},
+		{
+		  "eng": "loyal",
+		  "pl": "lojalny"
+		},
+		{
+		  "eng": "disloyal",
+		  "pl": "nielojalny"
+		},
+		{
+		  "eng": "mature",
+		  "pl": "dojrza\u0142y"
+		},
+		{
+		  "eng": "immature",
+		  "pl": "niedojrza\u0142y"
+		},
+		{
+		  "eng": "mean",
+		  "pl": "sk\u0105py"
+		},
+		{
+		  "eng": "messy",
+		  "pl": "nieporz\u0105dy"
+		},
+		{
+		  "eng": "modest",
+		  "pl": "skromny"
+		},
+		{
+		  "eng": "immodest",
+		  "pl": "nieskromny"
+		},
+		{
+		  "eng": "nasty",
+		  "pl": "wstr\u0119tny"
+		},
+		{
+		  "eng": "neat",
+		  "pl": "staranny"
+		},
+		{
+		  "eng": "open-minded",
+		  "pl": "o otwartym umy\u015ble"
+		},
+		{
+		  "eng": "narrow-minded",
+		  "pl": "ograniczony"
+		},
+		{
+		  "eng": "outgoing",
+		  "pl": "otwarty, towarzyski"
+		},
+		{
+		  "eng": "patient",
+		  "pl": "cierpliwy"
+		},
+		{
+		  "eng": "impatient",
+		  "pl": "niecierpliwy"
+		},
+		{
+		  "eng": "peaceful",
+		  "pl": "spokojny"
+		},
+		{
+		  "eng": "personality",
+		  "pl": "osobowo\u015b\u0107"
+		},
+		{
+		  "eng": "polite",
+		  "pl": "uprzejmy"
+		},
+		{
+		  "eng": "impolite",
+		  "pl": "nieuprzejmy"
+		},
+		{
+		  "eng": "politeness",
+		  "pl": "uprzejmo\u015b\u0107"
+		},
+		{
+		  "eng": "quiet",
+		  "pl": "cichy"
+		},
+		{
+		  "eng": "rebellious",
+		  "pl": "buntowniczy"
+		},
+		{
+		  "eng": "relaxed",
+		  "pl": "wyluzowany"
+		},
+		{
+		  "eng": "reliable",
+		  "pl": "godny zaufania"
+		},
+		{
+		  "eng": "reserved",
+		  "pl": "pow\u015bci\u0105gliwy"
+		},
+		{
+		  "eng": "responsible",
+		  "pl": "odpowiedzialny"
+		},
+		{
+		  "eng": "irresponsible",
+		  "pl": "nieodpowiedzialny"
+		},
+		{
+		  "eng": "rude",
+		  "pl": "niegrzeczny"
+		},
+		{
+		  "eng": "self-confident",
+		  "pl": "pewny siebie"
+		},
+		{
+		  "eng": "selfish",
+		  "pl": "samolubny"
+		},
+		{
+		  "eng": "selfless",
+		  "pl": "bezinteresowny"
+		},
+		{
+		  "eng": "sense of humor",
+		  "pl": "poczucie humoru"
+		},
+		{
+		  "eng": "sensible",
+		  "pl": "rozs\u0105dny"
+		},
+		{
+		  "eng": "sensitive",
+		  "pl": "wra\u017cliwy"
+		},
+		{
+		  "eng": "insensitive",
+		  "pl": "niewra\u017cliwy"
+		},
+		{
+		  "eng": "shallow",
+		  "pl": "p\u0142ytki"
+		},
+		{
+		  "eng": "shy",
+		  "pl": "nie\u015bmia\u0142y"
+		},
+		{
+		  "eng": "sociable",
+		  "pl": "towarzyski"
+		},
+		{
+		  "eng": "unsociable",
+		  "pl": "nietowarzyski"
+		},
+		{
+		  "eng": "stubborn",
+		  "pl": "uparty"
+		},
+		{
+		  "eng": "stupid",
+		  "pl": "g\u0142upi"
+		},
+		{
+		  "eng": "talkative",
+		  "pl": "gadatliwy"
+		},
+		{
+		  "eng": "tolerant",
+		  "pl": "tolerancyjny"
+		},
+		{
+		  "eng": "intolerant",
+		  "pl": "nietolerancyjny"
+		},
+		{
+		  "eng": "vain",
+		  "pl": "pr\u00f3\u017cny"
+		},
+		{
+		  "eng": "violent",
+		  "pl": "agresywny, porywczy"
+		},
+		{
+		  "eng": "wise",
+		  "pl": "m\u0105dry"
+		}
+	],
+	"Uczucia": [
+		{
+		  "eng": "annoyed",
+		  "pl": "zirytowany"
+		},
+		{
+		  "eng": "annoying",
+		  "pl": "irytuj\u0105cy"
+		},
+		{
+		  "eng": "bored",
+		  "pl": "znudzony"
+		},
+		{
+		  "eng": "boring",
+		  "pl": "nudny"
+		},
+		{
+		  "eng": "depressed",
+		  "pl": "za\u0142amany"
+		},
+		{
+		  "eng": "depressing",
+		  "pl": "przygn\u0119biaj\u0105cy"
+		},
+		{
+		  "eng": "disappointed",
+		  "pl": "rozczarowany"
+		},
+		{
+		  "eng": "disappointing",
+		  "pl": "rozczarowuj\u0105cy"
+		},
+		{
+		  "eng": "embarrassed",
+		  "pl": "za\u017cenowany, zawstydzony"
+		},
+		{
+		  "eng": "embarrassing",
+		  "pl": "wprawiaj\u0105cy w za\u017cenowanie"
+		},
+		{
+		  "eng": "excited",
+		  "pl": "podekscytowany"
+		},
+		{
+		  "eng": "exciting",
+		  "pl": "ekscytuj\u0105cy"
+		},
+		{
+		  "eng": "frightened",
+		  "pl": "przera\u017cony"
+		},
+		{
+		  "eng": "frightening",
+		  "pl": "przera\u017caj\u0105cy"
+		},
+		{
+		  "eng": "frustrated",
+		  "pl": "sfrustrowany"
+		},
+		{
+		  "eng": "frustrating",
+		  "pl": "frustruj\u0105cy"
+		},
+		{
+		  "eng": "miserable",
+		  "pl": "nieszcz\u0119\u015bliwy"
+		},
+		{
+		  "eng": "moved",
+		  "pl": "wzruszony"
+		},
+		{
+		  "eng": "moving",
+		  "pl": "wzruszaj\u0105cy"
+		},
+		{
+		  "eng": "pleased",
+		  "pl": "zadowolony"
+		},
+		{
+		  "eng": "stressed out",
+		  "pl": "zestresowany"
+		},
+		{
+		  "eng": "surprised",
+		  "pl": "zdziwiony"
+		},
+		{
+		  "eng": "surprising",
+		  "pl": "zadziwiaj\u0105cy"
+		},
+		{
+		  "eng": "worried",
+		  "pl": "zmartwiony"
+		},
+		{
+		  "eng": "worrying",
+		  "pl": "martwi\u0105cy"
+		},
+		{
+		  "eng": "admire",
+		  "pl": "podziwia\u0107"
+		},
+		{
+		  "eng": "adore",
+		  "pl": "uwielbia\u0107"
+		},
+		{
+		  "eng": "detest",
+		  "pl": "nie znosi\u0107"
+		},
+		{
+		  "eng": "dislike",
+		  "pl": "nie lubi\u0107"
+		},
+		{
+		  "eng": "hate",
+		  "pl": "nienawidzi\u0107"
+		},
+		{
+		  "eng": "like",
+		  "pl": "lubi\u0107"
+		},
+		{
+		  "eng": "reject",
+		  "pl": "odtr\u0105ci\u0107"
+		},
+		{
+		  "eng": "respect",
+		  "pl": "szanowa\u0107"
+		}
+	],
+	"Zwroty": [
+		{
+		  "eng": "at the age of",
+		  "pl": "w wieku"
+		},
+		{
+		  "eng": "be angry with sb",
+		  "pl": "by\u0107 z\u0142ym na kogo\u015b"
+		},
+		{
+		  "eng": "be afraid of sb/sth",
+		  "pl": "ba\u0107 si\u0119 kogo\u015b/czego\u015b"
+		},
+		{
+		  "eng": "be attracted to sb",
+		  "pl": "uwa\u017ca\u0107, \u017ce kto\u015b jest poci\u0105gaj\u0105cy"
+		},
+		{
+		  "eng": "get fed up with sb/sth",
+		  "pl": "mie\u0107 kogo\u015b/czego\u015b do\u015b\u0107"
+		},
+		{
+		  "eng": "be fond of sb/sth",
+		  "pl": "lubi\u0107 kogo\u015b/co\u015b"
+		},
+		{
+		  "eng": "be good at sth",
+		  "pl": "by\u0107 w czym\u015b dobrym"
+		},
+		{
+		  "eng": "be in a good mood",
+		  "pl": "w dobrym nastroju"
+		},
+		{
+		  "eng": "be in a bad mood",
+		  "pl": "w z\u0142ym nastroju"
+		},
+		{
+		  "eng": "be interested in sth",
+		  "pl": "interesowa\u0107 si\u0119 czym\u015b"
+		},
+		{
+		  "eng": "be keen on sth",
+		  "pl": "bardzo co\u015b lubi\u0107"
+		},
+		{
+		  "eng": "be nervous about sth",
+		  "pl": "denerwowa\u0107 si\u0119 czym\u015b"
+		},
+		{
+		  "eng": "can't stand sb/sth",
+		  "pl": "nie cierpie\u0107 kogo\u015b/czego\u015b"
+		},
+		{
+		  "eng": "change one's mind",
+		  "pl": "zmieni\u0107 zdanie"
+		},
+		{
+		  "eng": "cheer up",
+		  "pl": "rozweseli\u0107, rozchmurzy\u0107 si\u0119"
+		},
+		{
+		  "eng": "do sb a favour",
+		  "pl": "zrobi\u0107 komu\u015b przyslug\u0119"
+		},
+		{
+		  "eng": "fall in love with sb",
+		  "pl": "zakocha\u0107 si\u0119 w kim\u015b"
+		},
+		{
+		  "eng": "feel like sth",
+		  "pl": "mie\u0107 na co\u015b ochot\u0119"
+		},
+		{
+		  "eng": "function well under stress",
+		  "pl": "dobrze funkcjonowa\u0107 pod wp\u0142ywem stresu"
+		},
+		{
+		  "eng": "get a laugh",
+		  "pl": "wywo\u0142ywa\u0107 \u015bmiech"
+		},
+		{
+		  "eng": "get to know someone",
+		  "pl": "pozna\u0107 kogo\u015b"
+		},
+		{
+		  "eng": "grow up",
+		  "pl": "dorasta\u0107"
+		},
+		{
+		  "eng": "have a bad day",
+		  "pl": "mie\u0107 z\u0142y dzie\u0144"
+		},
+		{
+		  "eng": "have something in common with sb",
+		  "pl": "mie\u0107 co\u015b wsp\u00f3lnego z kim\u015b"
+		},
+		{
+		  "eng": "in aid of sth",
+		  "pl": "na rzecz czego\u015b"
+		},
+		{
+		  "eng": "laugh at sb/sth",
+		  "pl": "\u015bmia\u0107 si\u0119 z kogo\u015b/czego\u015b"
+		},
+		{
+		  "eng": "look down on sb",
+		  "pl": "patrze\u0107 na kogo\u015b z g\u00f3ry, pogardza\u0107 kim\u015b"
+		},
+		{
+		  "eng": "look up to sb",
+		  "pl": "podziwia\u0107 kogo\u015b"
+		},
+		{
+		  "eng": "lose one's temper",
+		  "pl": "straci\u0107 panowanie nad sob\u0105"
+		},
+		{
+		  "eng": "make fun of sb",
+		  "pl": "wy\u015bmiewa\u0107 si\u0119 z kogo\u015b"
+		},
+		{
+		  "eng": "make sb laugh",
+		  "pl": "roz\u015bmiesza\u0107 kogo\u015b"
+		},
+		{
+		  "eng": "make up one's mind",
+		  "pl": "zdecydowa\u0107 si\u0119"
+		},
+		{
+		  "eng": "put sb in a good mood",
+		  "pl": "wprawia\u0107 kogo\u015b w dobry nastr\u00f3j"
+		},
+		{
+		  "eng": "speak in a funny voice",
+		  "pl": "m\u00f3wi\u0107 \u015bmiesznym g\u0142osem"
+		},
+		{
+		  "eng": "take part in sth",
+		  "pl": "bra\u0107 w czym\u015b udzia\u0142"
+		},
+		{
+		  "eng": "talk to a stranger",
+		  "pl": "rozmawia\u0107 z nieznajomym"
+		},
+		{
+		  "eng": "tell a joke",
+		  "pl": "opowiedzie\u0107 dowcip"
+		},
+		{
+		  "eng": "worry about sth",
+		  "pl": "martwi\u0107 si\u0119 czym\u015b"
+		}
+	]
+  }
+}
