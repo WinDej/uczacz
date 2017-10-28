@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-import sys
+
 import json
+import sys
 
 if len(sys.argv) < 3:
 	print('Usage: ./insert.py "<unit name>" "<category name>"')
@@ -21,9 +22,9 @@ if category not in data[unit].keys():
 
 if len(data[unit][category]) > 0:
     counter = len(data[unit][category])-1
-    print("{}: {}. \033[94m{}\033[0m - \033[91m{}\033[0m".format(category, 
-    															 counter, 
-    															 data[unit][category][-1]["eng"], 
+    print("{}: {}. \033[94m{}\033[0m - \033[91m{}\033[0m".format(category,
+    															 counter,
+    															 data[unit][category][-1]["eng"],
     															 data[unit][category][-1]["pl"]))
 else:
     counter = 0
@@ -32,9 +33,9 @@ print("\033[93m{} -> {}\033[0m".format(unit, category))
 
 while True:
     counter += 1
-    print("\n{}. ".format(counter), end="")
-    data[unit][category].append({"eng": input("\t\033[94mEnglish\033[0m : ").strip(), 
-                            	 "pl":  input("\t\033[91mPolish\033[0m  : ").strip() 
+    print("\n{}. ".format(counter), end="")  # NOQA
+    data[unit][category].append({"eng": input("\t\033[94mEnglish\033[0m : ").strip(),
+                            	 "pl":  input("\t\033[91mPolish\033[0m  : ").strip()
                         })
 
     with open("data/slowka.json", "w") as f:
