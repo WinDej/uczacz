@@ -7,6 +7,12 @@ from uczacz.app import Uczacz
 
 class UczaczTest(TestCase):
 
+    def setUp(self):
+        self.u = Uczacz()
+
     def test_data_loading(self):
-        u = Uczacz()
-        self.assertDictEqual(u.data, json.load('data/data.json'))
+        src = 'data/data.json'
+        with open(src, 'r') as f:
+            data = json.load(f)
+
+        self.assertDictEqual(self.u.data, data)
