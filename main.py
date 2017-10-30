@@ -1,33 +1,66 @@
 #!/usr/bin/env python3
-import os
 import json
+import os
 import random
 
-os.system("clear")
-
-with open("data/slowka.json", "r") as f:
-    data = json.load(f)
+import colored
+from colored import stylize
 
 
-units = {unit: [category for category in data[unit]] for unit in data}
+def colored_print(text, color="light_green", **kwargs):
+    print(stylize(text, colored.fg(color)), **kwargs)  # NOQA
 
-print("\033[92mPick unit\033[0m\n")
 
-for i, unit in zip(range(len(units.keys())), units.keys()):
-	print("\033[92m{}\033[0m. {}".format(i+1, unit))
+def pick_unit():
+    while True:
+        try:
+            value = input(stylize("Unit: ", colored.fg("light_green")))
+            value = int(value) - 1
+            # TODO exception
+            return units.keys()[value]
+        except (ValueError, KeyError):
+            print("(E) wrong value, try again")
 
-picked_unit = list(units.keys())[int(input("\n\033[92mUnit\033[0m: "))-1]
 
-os.system("clear")
-print("\033[92mPick categories\033[0m\n")
+def pick_category():
+    picked_category = input(stylize("Categories", colored.fg("light_green")) + " [x/x-y/*]: ")
+    return picked_category.split("-")
 
-for i, category in zip(range(len(units[picked_unit])), units[picked_unit]):
-    print("\033[92m{}\033[0m. {}".format(i+1, category))
 
 questions = []
-picked_category = input("\n\033[92mCategories\033[0m [x/x-y/*]: ")
-picked_category = picked_category.split("-")
+points = 0
 
+# Load data
+with open("data/slowka.json", "r") as f:
+    data = json.load(f)
+units = {unit: [category for category in data[unit]] for unit in data}
+
+## Units
+
+os.system("clear")
+colored_print("Pick unit", end="\n\n")
+
+# List units
+for i, unit in zip(range(len(units.keys())), units.keys()):
+    colored_print(i + 1, end='')
+    print(". %s" % unit)
+print("\n")
+
+picked_unit = pick_unit()
+
+## Categories
+
+os.system("clear")
+colored_print("Pick categories", end="\n\n")
+
+# List categories
+for i, category in zip(range(len(units[picked_unit])), units[picked_unit]):
+    colored_print(i + 1, end='')
+    print(category)
+
+picked_category = pick_category()
+
+# Prepare words
 if len(picked_category) > 1:
 	part = slice(int(picked_category[0])-1, int(picked_category[1]))
 elif picked_category[0] == "*":
@@ -43,7 +76,7 @@ for category in units[picked_unit][part]:
 
 word_amount = len(questions)
 
-points = 0
+## Quiz
 
 counter = 1
 while questions:
@@ -55,7 +88,7 @@ while questions:
 	print("\033[91mPoints: {:.2f}\033[0m\n".format(points))
 	print("\033[91m Polish\033[0m  : {}".format(question["pl"]))
 	answer = input("\033[96m English\033[0m : ").strip().lower()
-	
+
 	if question["eng"].strip().lower() == answer:
 		counter += 1
 		points += question["points"]
