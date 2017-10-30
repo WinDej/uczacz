@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# TODO move it as part of Uczacz class
+
 import json
 import sys
 
