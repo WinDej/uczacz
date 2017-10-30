@@ -17,7 +17,7 @@ def pick_unit():
             value = input(stylize("Unit: ", colored.fg("light_green")))
             value = int(value) - 1
             # TODO exception
-            return units.keys()[value]
+            return list(units.keys())[value]
         except (ValueError, KeyError):
             print("(E) wrong value, try again")
 
@@ -37,26 +37,27 @@ units = {unit: [category for category in data[unit]] for unit in data}
 
 ## Units
 
-os.system("clear")
+os.system('cls||clear')
 colored_print("Pick unit", end="\n\n")
 
 # List units
-for i, unit in zip(range(len(units.keys())), units.keys()):
+for i, unit in enumerate(units.keys()):
     colored_print(i + 1, end='')
-    print(". %s" % unit)
-print("\n")
+    print(". {}".format(unit))
+print()
 
 picked_unit = pick_unit()
 
 ## Categories
 
-os.system("clear")
+os.system('cls||clear')
 colored_print("Pick categories", end="\n\n")
 
 # List categories
 for i, category in zip(range(len(units[picked_unit])), units[picked_unit]):
     colored_print(i + 1, end='')
-    print(category)
+    print(". {}".format(category))
+print()
 
 picked_category = pick_category()
 
@@ -80,16 +81,16 @@ word_amount = len(questions)
 
 counter = 1
 while questions:
-	os.system("clear")
+	os.system('cls||clear')
 	i = random.randrange(0, len(questions))
 	question = questions[i]
 
 	print("\033[93m#\033[0m{}/{} \033[93m{}\033[0m".format(counter, word_amount, question["category"]))
 	print("\033[91mPoints: {:.2f}\033[0m\n".format(points))
 	print("\033[91m Polish\033[0m  : {}".format(question["pl"]))
-	answer = input("\033[96m English\033[0m : ").strip().lower()
+	answer = input("\033[96m English\033[0m : ")
 
-	if question["eng"].strip().lower() == answer:
+	if question["eng"].strip().lower() == answer.strip().lower():
 		counter += 1
 		points += question["points"]
 		print("\n \033[92mCorrect [+{:.2f} point]\033[0m".format(question["points"]))
