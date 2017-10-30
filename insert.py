@@ -5,9 +5,9 @@ import sys
 
 if len(sys.argv) < 3:
 	print('Usage: ./insert.py "<unit name>" "<category name>"')
-	sys.exit(666)
+	sys.exit(1)
 
-with open("data/slowka.json", "r") as f:
+with open("data/data.json", "r") as f:
     data = json.load(f)
 
 unit = sys.argv[1]
@@ -38,5 +38,5 @@ while True:
                             	 "pl":  input("\t\033[91mPolish\033[0m  : ").strip()
                         })
 
-    with open("data/slowka.json", "w") as f:
+    with open("data/data.json", "w") as f:
         json.dump(data, f, indent = 2)

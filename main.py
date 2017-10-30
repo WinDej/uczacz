@@ -31,7 +31,7 @@ questions = []
 points = 0
 
 # Load data
-with open("data/slowka.json", "r") as f:
+with open("data/data.json", "r") as f:
     data = json.load(f)
 units = {unit: [category for category in data[unit]] for unit in data}
 
