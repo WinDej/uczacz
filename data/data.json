@@ -1,5 +1,5 @@
 {
-  "Unit 1 - Człowiek": {
+  "Unit 1 - Cz\u0142owiek": {
     "Dane osobowe": [
       {
         "eng": "age",
@@ -2752,6 +2752,892 @@
       {
         "eng": "water the flowers",
         "pl": "podlewac kwiaty"
+      }
+    ]
+  },
+  "Unit 3 - Szko\u0142a": {
+    "System o\u015bwiaty": [
+      {
+        "eng": "academy",
+        "pl": "akademia"
+      },
+      {
+        "eng": "college",
+        "pl": "szkola wyzsza"
+      },
+      {
+        "eng": "elementary school",
+        "pl": "szkola podstawowa"
+      },
+      {
+        "eng": "fee-paying school",
+        "pl": "platna szkola"
+      },
+      {
+        "eng": "high school",
+        "pl": "szkola srednia"
+      },
+      {
+        "eng": "independent school",
+        "pl": "szkola niepubliczna"
+      },
+      {
+        "eng": "kindergarten",
+        "pl": "przedszkole"
+      },
+      {
+        "eng": "middle school",
+        "pl": "gimnazjum"
+      },
+      {
+        "eng": "co-educational school",
+        "pl": "szkola koedukacyjna"
+      },
+      {
+        "eng": "private school",
+        "pl": "szkola prywatna"
+      },
+      {
+        "eng": "single-sex school",
+        "pl": "szkola tylko dla chlopcow lub dziewczat"
+      },
+      {
+        "eng": "public school",
+        "pl": "szkola panstwowa"
+      },
+      {
+        "eng": "university",
+        "pl": "uniwersytet"
+      },
+      {
+        "eng": "vocational school",
+        "pl": "szkola zawodowa"
+      }
+    ],
+    "Przedmioty szkolne": [
+      {
+        "eng": "art",
+        "pl": "plastyka"
+      },
+      {
+        "eng": "biology",
+        "pl": "biologia"
+      },
+      {
+        "eng": "chemistry",
+        "pl": "chemia"
+      },
+      {
+        "eng": "civic studies",
+        "pl": "wiedza o spoleczenstwie"
+      },
+      {
+        "eng": "english language and literature",
+        "pl": "jezyk angielski"
+      },
+      {
+        "eng": "foreign languages",
+        "pl": "jezyki obce"
+      },
+      {
+        "eng": "geography",
+        "pl": "geografia"
+      },
+      {
+        "eng": "humanities",
+        "pl": "przedmioty humanistyczne"
+      },
+      {
+        "eng": "history",
+        "pl": "historia"
+      },
+      {
+        "eng": "ICT",
+        "pl": "informatyka"
+      },
+      {
+        "eng": "maths",
+        "pl": "matematyka"
+      },
+      {
+        "eng": "music",
+        "pl": "muzyka"
+      },
+      {
+        "eng": "PE",
+        "pl": "wychowanie fizyczne"
+      },
+      {
+        "eng": "physics",
+        "pl": "fizyka"
+      },
+      {
+        "eng": "polish language and literature",
+        "pl": "jezyk polski"
+      },
+      {
+        "eng": "religious education",
+        "pl": "religia"
+      },
+      {
+        "eng": "science",
+        "pl": "przedmioty scisle, nauki przyrodnicze"
+      },
+      {
+        "eng": "subject",
+        "pl": "przedmiot szkolny"
+      }
+    ],
+    "Szko\u0142a - Osoby": [
+      {
+        "eng": "classmate",
+        "pl": "kolega z klasy"
+      },
+      {
+        "eng": "deputy head",
+        "pl": "wicedyrektor"
+      },
+      {
+        "eng": "examiner",
+        "pl": "egzaminator"
+      },
+      {
+        "eng": "form teacher",
+        "pl": "wychowawca"
+      },
+      {
+        "eng": "headmaster",
+        "pl": "dyrektor"
+      },
+      {
+        "eng": "headmistress",
+        "pl": "dyrektorka"
+      },
+      {
+        "eng": "lecturer",
+        "pl": "wykladowca"
+      },
+      {
+        "eng": "professor",
+        "pl": "profesor"
+      },
+      {
+        "eng": "schoolboy",
+        "pl": "uczen"
+      },
+      {
+        "eng": "schoolgirl",
+        "pl": "uczennica"
+      },
+      {
+        "eng": "schoolmate",
+        "pl": "kolega ze szkoly"
+      },
+      {
+        "eng": "secretary",
+        "pl": "sekretarz"
+      },
+      {
+        "eng": "student",
+        "pl": "uczen, student"
+      },
+      {
+        "eng": "teacher",
+        "pl": "nauczyciel"
+      },
+      {
+        "eng": "teaching staff",
+        "pl": "grono pedagogiczne"
+      },
+      {
+        "eng": "university student",
+        "pl": "student uniwersytetu"
+      },
+      {
+        "eng": "absent from school",
+        "pl": "nieobecny"
+      },
+      {
+        "eng": "active",
+        "pl": "aktywny"
+      },
+      {
+        "eng": "cooperative",
+        "pl": "chetny do wspolpracy"
+      },
+      {
+        "eng": "uncooperative",
+        "pl": "niechetny do wspolpracy"
+      },
+      {
+        "eng": "demanding",
+        "pl": "wymagajacy"
+      },
+      {
+        "eng": "fair",
+        "pl": "sprawiedliwy"
+      },
+      {
+        "eng": "unfair",
+        "pl": "niesprawiedliwy"
+      },
+      {
+        "eng": "gifted",
+        "pl": "utalentowany"
+      },
+      {
+        "eng": "hard-working",
+        "pl": "pracowity"
+      },
+      {
+        "eng": "imaginative",
+        "pl": "obdarzony wyobraznia"
+      },
+      {
+        "eng": "lazy",
+        "pl": "leniwy"
+      },
+      {
+        "eng": "lenient",
+        "pl": "poblazliwy"
+      },
+      {
+        "eng": "motivated",
+        "pl": "zmotywowany"
+      },
+      {
+        "eng": "motivating",
+        "pl": "motywujacy"
+      },
+      {
+        "eng": "passive",
+        "pl": "bierny"
+      },
+      {
+        "eng": "present at school",
+        "pl": "obecny"
+      },
+      {
+        "eng": "professional",
+        "pl": "profesjonalny"
+      },
+      {
+        "eng": "punctual",
+        "pl": "punktualny"
+      },
+      {
+        "eng": "strict",
+        "pl": "surowy"
+      },
+      {
+        "eng": "systematic",
+        "pl": "systematyczny"
+      },
+      {
+        "eng": "talented",
+        "pl": "utalentowany"
+      },
+      {
+        "eng": "weak",
+        "pl": "slaby"
+      }
+    ],
+    "Przedmioty u\u017cywane w szkole": [
+      {
+        "eng": "blackboard",
+        "pl": "tablica (czarna)"
+      },
+      {
+        "eng": "board",
+        "pl": "tablica"
+      },
+      {
+        "eng": "calculator",
+        "pl": "kalkulator"
+      },
+      {
+        "eng": "chalk",
+        "pl": "kreda"
+      },
+      {
+        "eng": "notebook",
+        "pl": "zeszyt"
+      },
+      {
+        "eng": "textbook",
+        "pl": "podrecznik"
+      },
+      {
+        "eng": "desk",
+        "pl": "lawka"
+      },
+      {
+        "eng": "duster",
+        "pl": "gabka do tablicy"
+      },
+      {
+        "eng": "workbook",
+        "pl": "zeszyt cwiczen"
+      },
+      {
+        "eng": "file",
+        "pl": "segregator"
+      },
+      {
+        "eng": "folder",
+        "pl": "teczka tekturowa"
+      },
+      {
+        "eng": "interactive whiteboard",
+        "pl": "tablica interaktywna"
+      },
+      {
+        "eng": "locker",
+        "pl": "szafka"
+      },
+      {
+        "eng": "PE kit",
+        "pl": "stroj gimnastyczny"
+      },
+      {
+        "eng": "pen",
+        "pl": "dlugopis, pioro"
+      },
+      {
+        "eng": "pencil",
+        "pl": "olowek"
+      },
+      {
+        "eng": "pencil case",
+        "pl": "piornik"
+      },
+      {
+        "eng": "pencil sharpener",
+        "pl": "temperowka"
+      },
+      {
+        "eng": "row of desks",
+        "pl": "rzad lawek"
+      },
+      {
+        "eng": "rubber",
+        "pl": "gumka"
+      },
+      {
+        "eng": "ruler",
+        "pl": "linijka"
+      },
+      {
+        "eng": "school bag",
+        "pl": "plecak szkolny"
+      },
+      {
+        "eng": "whiteboard",
+        "pl": "tablica (biala)"
+      },
+      {
+        "eng": "whiteboard marker",
+        "pl": "pisak do tablicy"
+      }
+    ],
+    "Szko\u0142a - Miejsca i pomieszczenia": [
+      {
+        "eng": "canteen",
+        "pl": "stolowka"
+      },
+      {
+        "eng": "classroom",
+        "pl": "klasa, sala lekcyjna"
+      },
+      {
+        "eng": "common room",
+        "pl": "swietlica"
+      },
+      {
+        "eng": "computer room",
+        "pl": "sala komputerowa"
+      },
+      {
+        "eng": "corridor",
+        "pl": "korytarz"
+      },
+      {
+        "eng": "gym",
+        "pl": "sala gimnastyczna"
+      },
+      {
+        "eng": "headmaster's office",
+        "pl": "gabinet dyrektora"
+      },
+      {
+        "eng": "laboratory",
+        "pl": "pracownia"
+      },
+      {
+        "eng": "library",
+        "pl": "biblioteka"
+      },
+      {
+        "eng": "office",
+        "pl": "sekretariat"
+      },
+      {
+        "eng": "playground",
+        "pl": "boisko do zabawy"
+      },
+      {
+        "eng": "science lab",
+        "pl": "sala do nauki biologii, chemii, fizyki"
+      },
+      {
+        "eng": "sports field",
+        "pl": "boisko sportowe"
+      },
+      {
+        "eng": "staffroom",
+        "pl": "pokoj nauczycielski"
+      }
+    ],
+    "Nauka w szkole": [
+      {
+        "eng": "absence",
+        "pl": "nieobecnosc"
+      },
+      {
+        "eng": "attendance",
+        "pl": "obecnosc (frekwencja)"
+      },
+      {
+        "eng": "break",
+        "pl": "przerwa"
+      },
+      {
+        "eng": "bully",
+        "pl": "uczen przesladujacy/zastraszajacy innych uczniow"
+      },
+      {
+        "eng": "class",
+        "pl": "lekcja"
+      },
+      {
+        "eng": "club",
+        "pl": "kolko zainteresowan"
+      },
+      {
+        "eng": "competition",
+        "pl": "olimpiada przedmiotowa"
+      },
+      {
+        "eng": "compulsory",
+        "pl": "obowiazkowy"
+      },
+      {
+        "eng": "curriculum",
+        "pl": "program nauczania"
+      },
+      {
+        "eng": "deadline",
+        "pl": "termin wykonania pracy"
+      },
+      {
+        "eng": "extracurricular activities",
+        "pl": "zajecia pozalekcyjne"
+      },
+      {
+        "eng": "grade",
+        "pl": "stopien, ocena"
+      },
+      {
+        "eng": "scholarship",
+        "pl": "stypendium"
+      },
+      {
+        "eng": "holiday",
+        "pl": "wakacje"
+      },
+      {
+        "eng": "learning difficulities",
+        "pl": "trudnosci w nauce"
+      },
+      {
+        "eng": "lesson",
+        "pl": "lekcja"
+      },
+      {
+        "eng": "lunch break",
+        "pl": "przerwa na lunch"
+      },
+      {
+        "eng": "newcomer",
+        "pl": "nowy uczen"
+      },
+      {
+        "eng": "optional",
+        "pl": "nieobowiazkowy"
+      },
+      {
+        "eng": "school certificate",
+        "pl": "swiadectwo szkolne"
+      },
+      {
+        "eng": "school fee",
+        "pl": "czesne"
+      },
+      {
+        "eng": "school trip",
+        "pl": "wycieczka szkolna"
+      },
+      {
+        "eng": "set books",
+        "pl": "lektury szkolne"
+      },
+      {
+        "eng": "sports club",
+        "pl": "sks"
+      },
+      {
+        "eng": "staff meeting",
+        "pl": "rada pedagogiczna"
+      },
+      {
+        "eng": "strict rules",
+        "pl": "surowe zasady"
+      },
+      {
+        "eng": "term",
+        "pl": "semestr"
+      },
+      {
+        "eng": "timetable",
+        "pl": "plan lekcji"
+      },
+      {
+        "eng": "tutorial",
+        "pl": "zajecia w niewielkiej grupie na uniwersytecie"
+      },
+      {
+        "eng": "written work",
+        "pl": "praca pisemna"
+      },
+      {
+        "eng": "attend",
+        "pl": "uczeszczac"
+      },
+      {
+        "eng": "collaborate",
+        "pl": "wspolpracowac"
+      },
+      {
+        "eng": "chatter",
+        "pl": "paplac, trajkotac"
+      },
+      {
+        "eng": "learn",
+        "pl": "uczyc sie"
+      },
+      {
+        "eng": "set",
+        "pl": "zadawac"
+      },
+      {
+        "eng": "attend a course",
+        "pl": "uczeszczac na kurs"
+      },
+      {
+        "eng": "attend classes",
+        "pl": "uczeszczac na zajecia"
+      },
+      {
+        "eng": "attend school",
+        "pl": "uczeszczac do szkoly"
+      },
+      {
+        "eng": "discuss set books",
+        "pl": "omawiac lektury"
+      },
+      {
+        "eng": "copy homework",
+        "pl": "przepisywac od kogos prace domowa"
+      },
+      {
+        "eng": "do a course",
+        "pl": "robic kurs"
+      },
+      {
+        "eng": "do a project",
+        "pl": "robic projekt"
+      },
+      {
+        "eng": "do a task",
+        "pl": "wykonywac zadanie"
+      },
+      {
+        "eng": "do an exercise",
+        "pl": "robic cwiczenie"
+      },
+      {
+        "eng": "do an experiment",
+        "pl": "przeprowadzic eksperyment"
+      },
+      {
+        "eng": "do homework",
+        "pl": "odrabiac prace domowa"
+      },
+      {
+        "eng": "do one's best",
+        "pl": "bardzo sie starac"
+      },
+      {
+        "eng": "do well",
+        "pl": "dobrze sobie radzic"
+      },
+      {
+        "eng": "expel sb from school",
+        "pl": "wydalic kogos ze szkoly"
+      },
+      {
+        "eng": "go to school",
+        "pl": "chodzic do szkoly"
+      },
+      {
+        "eng": "hand in homework",
+        "pl": "oddac prace domowa"
+      },
+      {
+        "eng": "have a break",
+        "pl": "zrobic sobie przerwe"
+      },
+      {
+        "eng": "learn a new skill",
+        "pl": "nabyc nowa umiejetnosc"
+      },
+      {
+        "eng": "make good impression",
+        "pl": "zrobic dobre wrazenie"
+      },
+      {
+        "eng": "make a presentation",
+        "pl": "zrobic prezentacje"
+      },
+      {
+        "eng": "make mistakes",
+        "pl": "robic bledy"
+      },
+      {
+        "eng": "make notes",
+        "pl": "robic notatki"
+      },
+      {
+        "eng": "make progress",
+        "pl": "robic postepy"
+      },
+      {
+        "eng": "learn by heart",
+        "pl": "nauczyc sie na pamiec"
+      },
+      {
+        "eng": "miss lessons",
+        "pl": "opuszczac lekcje"
+      },
+      {
+        "eng": "take part in a lesson",
+        "pl": "brac udzial w lekcji"
+      },
+      {
+        "eng": "read maps",
+        "pl": "czytac mapy"
+      },
+      {
+        "eng": "pay attention in class",
+        "pl": "uwazac na lekcji"
+      },
+      {
+        "eng": "set an essay",
+        "pl": "zadawac wypracowanie"
+      },
+      {
+        "eng": "set homework",
+        "pl": "zadawac prace domowa"
+      },
+      {
+        "eng": "skip classes",
+        "pl": "opuszczac zajecia"
+      },
+      {
+        "eng": "play truant",
+        "pl": "chodzic na wagary"
+      },
+      {
+        "eng": "solve a problem",
+        "pl": "rozwiazywac zadanie matematyczne"
+      },
+      {
+        "eng": "study hard",
+        "pl": "uczyc sie pilnie"
+      },
+      {
+        "eng": "study sources",
+        "pl": "studiowac teksty zrodlowe"
+      },
+      {
+        "eng": "take the register",
+        "pl": "sprawdzac liste obecnosci w dzienniku"
+      },
+      {
+        "eng": "turn up late",
+        "pl": "spozniac sie"
+      },
+      {
+        "eng": "wipe the board",
+        "pl": "scierac tablice"
+      },
+      {
+        "eng": "work in groups",
+        "pl": "pracowac w grupach"
+      },
+      {
+        "eng": "write an essay",
+        "pl": "pisac wypracowanie"
+      }
+    ],
+    "Egzaminy": [
+      {
+        "eng": "academic results",
+        "pl": "wyniki w nauce"
+      },
+      {
+        "eng": "academic standards",
+        "pl": "poziom nauczania"
+      },
+      {
+        "eng": "exam paper",
+        "pl": "arkusz egzaminacyjny"
+      },
+      {
+        "eng": "past exam paper",
+        "pl": "arkusz egzaminacyjny z ubieglych lat"
+      },
+      {
+        "eng": "exam results",
+        "pl": "wyniki egzaminu"
+      },
+      {
+        "eng": "exam",
+        "pl": "egzamin"
+      },
+      {
+        "eng": "get a place at a university",
+        "pl": "dostac sie na uniwersystet"
+      },
+      {
+        "eng": "school-leaving exam",
+        "pl": "egzamin koncowy (na zakonczenie szkoly)"
+      },
+      {
+        "eng": "university entrance exam",
+        "pl": "egzamin wstepny na uczelnie"
+      },
+      {
+        "eng": "cheat in an exam",
+        "pl": "sciagac na egzaminie"
+      },
+      {
+        "eng": "take an exam",
+        "pl": "przystepowac do egzaminu"
+      },
+      {
+        "eng": "do badly in an exam",
+        "pl": "zle sobie poradzic na egzaminie"
+      },
+      {
+        "eng": "do well in an exam",
+        "pl": "dobrze sobie poradzic na egzaminie"
+      },
+      {
+        "eng": "fail an exam",
+        "pl": "oblac egzamin"
+      },
+      {
+        "eng": "score 56 marks in a test",
+        "pl": "dostac 56 punktow z testu"
+      },
+      {
+        "eng": "grade exam papers",
+        "pl": "sprawdzac arkusze egzaminacyjne"
+      },
+      {
+        "eng": "grade a test",
+        "pl": "sprawdzac test"
+      },
+      {
+        "eng": "grade homework",
+        "pl": "sprawdzac prace domowa"
+      },
+      {
+        "eng": "pass an exam",
+        "pl": "zdac egzamin"
+      },
+      {
+        "eng": "prepare for an exam",
+        "pl": "przygotowac sie do egzaminu"
+      },
+      {
+        "eng": "retake an exam",
+        "pl": "ponownie przystepowac do egzaminu"
+      },
+      {
+        "eng": "revise for an exam",
+        "pl": "powtarzac do egzaminu"
+      },
+      {
+        "eng": "study for an exam",
+        "pl": "uczyc sie do egzaminu"
+      }
+    ],
+    "Uko\u0144czenie szko\u0142y": [
+      {
+        "eng": "Bachelor of Arts",
+        "pl": "licencjat/human"
+      },
+      {
+        "eng": "Bachelor of Science",
+        "pl": "licencjat/inzynier"
+      },
+      {
+        "eng": "graduate",
+        "pl": "absolwent"
+      },
+      {
+        "eng": "Master of Arts",
+        "pl": "magister/human"
+      },
+      {
+        "eng": "Master of Science",
+        "pl": "magister/inzynier"
+      },
+      {
+        "eng": "Doctor of Philosophy",
+        "pl": "doktor"
+      },
+      {
+        "eng": "get into university",
+        "pl": "dostac sie na uczelnie"
+      },
+      {
+        "eng": "graduate from university",
+        "pl": "skonczyc uniwersytet"
+      },
+      {
+        "eng": "get a certificate",
+        "pl": "otrzymac swiadectwo"
+      },
+      {
+        "eng": "get a degree",
+        "pl": "uzyskac stopien naukowy"
+      },
+      {
+        "eng": "get a diploma",
+        "pl": "otrzymac dyplom"
       }
     ]
   }

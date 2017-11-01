@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import json
 import os
 import random
@@ -129,7 +130,6 @@ class Uczacz():
             except (ValueError, KeyError):
                 print("(E) wrong value, try again")
 
-
     def pick_category(self):
         while True:
             try:
@@ -138,7 +138,6 @@ class Uczacz():
                 return category.split('-')
             except AssertionError:
                 print('(E) wrong value, try again')
-
 
     def read_answer(self, text, color):
         while True:
@@ -150,4 +149,3 @@ class Uczacz():
                 return answer
             except AssertionError as e:
                 print('(E) wrong value, try again (%s)' % e)
-
