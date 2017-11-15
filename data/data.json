@@ -3640,5 +3640,537 @@
         "pl": "otrzymac dyplom"
       }
     ]
+  },
+  "Unit 4 - Praca": {
+    "Zawody": [
+      {
+        "eng": "accountant",
+        "pl": "ksi\u0119gowy"
+      },
+      {
+        "eng": "architect",
+        "pl": "architekt"
+      },
+      {
+        "eng": "assistant",
+        "pl": "asystent/asystentka"
+      },
+      {
+        "eng": "beautician",
+        "pl": "kosmetyczka"
+      },
+      {
+        "eng": "builder",
+        "pl": "budowniczy"
+      },
+      {
+        "eng": "bus driver",
+        "pl": "kierowca autobusu"
+      },
+      {
+        "eng": "busboy",
+        "pl": "pomocnik kelnera"
+      },
+      {
+        "eng": "car mechanic",
+        "pl": "mechanik samochodowy"
+      },
+      {
+        "eng": "career advisor",
+        "pl": "doradca zawodowy"
+      },
+      {
+        "eng": "carpenter",
+        "pl": "stolarz"
+      },
+      {
+        "eng": "chef",
+        "pl": "szef kuchni"
+      },
+      {
+        "eng": "pharmacist",
+        "pl": "farmaceuta"
+      },
+      {
+        "eng": "cleaner",
+        "pl": "sprz\u0105tacz/sprz\u0105taczka"
+      },
+      {
+        "eng": "computer programmer",
+        "pl": "programista"
+      },
+      {
+        "eng": "cook",
+        "pl": "kucharz"
+      },
+      {
+        "eng": "dentist",
+        "pl": "dentysta"
+      },
+      {
+        "eng": "doctor",
+        "pl": "lekarz"
+      },
+      {
+        "eng": "dressmaker",
+        "pl": "krawiec"
+      },
+      {
+        "eng": "driving instructor",
+        "pl": "instruktor nauki jazdy"
+      },
+      {
+        "eng": "dustman",
+        "pl": "\u015bmieciarz"
+      },
+      {
+        "eng": "economist",
+        "pl": "ekonomista"
+      },
+      {
+        "eng": "electrician",
+        "pl": "elektryk"
+      },
+      {
+        "eng": "engineer",
+        "pl": "in\u017cynier"
+      },
+      {
+        "eng": "executive",
+        "pl": "pracownik na kierowniczym stanowisku"
+      },
+      {
+        "eng": "farmer",
+        "pl": "rolnik"
+      },
+      {
+        "eng": "fashion designer",
+        "pl": "projektant mody"
+      },
+      {
+        "eng": "film director",
+        "pl": "re\u017cyser"
+      },
+      {
+        "eng": "firefighter",
+        "pl": "stra\u017cak"
+      },
+      {
+        "eng": "flight attendant",
+        "pl": "steward/stewardesa"
+      },
+      {
+        "eng": "hairdresser",
+        "pl": "fryzjer"
+      },
+      {
+        "eng": "housewife",
+        "pl": "gospodyni domowa"
+      },
+      {
+        "eng": "instructor",
+        "pl": "instruktor"
+      },
+      {
+        "eng": "interior designer",
+        "pl": "projektant wn\u0119trz"
+      },
+      {
+        "eng": "IT specialist",
+        "pl": "informatyk"
+      },
+      {
+        "eng": "journalist",
+        "pl": "dziennikarz"
+      },
+      {
+        "eng": "lawyer",
+        "pl": "prawnik"
+      },
+      {
+        "eng": "lecturer",
+        "pl": "wyk\u0142adowca"
+      },
+      {
+        "eng": "librarian",
+        "pl": "bibliotekarz"
+      },
+      {
+        "eng": "lollipop lady",
+        "pl": "pani przeprowadzaj\u0105ca przez ulic\u0119 dzieci id\u0105ce do szko\u0142y"
+      },
+      {
+        "eng": "lollipop man",
+        "pl": "pan przeprowadzaj\u0105cy przez ulic\u0119 dzieci id\u0105ce do szko\u0142y"
+      },
+      {
+        "eng": "lorry driver",
+        "pl": "kierowca ci\u0119\u017car\u00f3wki"
+      },
+      {
+        "eng": "manager",
+        "pl": "menad\u017cer, kierownik"
+      },
+      {
+        "eng": "miner",
+        "pl": "g\u00f3rnik"
+      },
+      {
+        "eng": "musician",
+        "pl": "muzyk"
+      },
+      {
+        "eng": "nurse",
+        "pl": "piel\u0119gniarz/piel\u0119gniarka"
+      },
+      {
+        "eng": "painter",
+        "pl": "malarz"
+      },
+      {
+        "eng": "photographer",
+        "pl": "fotograf"
+      },
+      {
+        "eng": "pilot",
+        "pl": "pilot"
+      },
+      {
+        "eng": "plumber",
+        "pl": "hydraulik"
+      },
+      {
+        "eng": "police officer",
+        "pl": "policiant"
+      },
+      {
+        "eng": "politician",
+        "pl": "polityk"
+      },
+      {
+        "eng": "postman",
+        "pl": "listonosz"
+      },
+      {
+        "eng": "postwoman",
+        "pl": "listonoszka"
+      },
+      {
+        "eng": "psychologist",
+        "pl": "psycholog"
+      },
+      {
+        "eng": "receptionist",
+        "pl": "recepcjonista"
+      },
+      {
+        "eng": "sailor",
+        "pl": "\u017ceglarz"
+      },
+      {
+        "eng": "sales representative",
+        "pl": "przedstawiciel handlowy"
+      },
+      {
+        "eng": "scientist",
+        "pl": "naukowiec"
+      },
+      {
+        "eng": "secretary",
+        "pl": "sekretarz/sekretarka"
+      },
+      {
+        "eng": "security guard",
+        "pl": "pracownik ochrony"
+      },
+      {
+        "eng": "shop assistant",
+        "pl": "sprzedawca"
+      },
+      {
+        "eng": "shopkeeper",
+        "pl": "sklepikarz"
+      },
+      {
+        "eng": "stockbroker",
+        "pl": "makler gie\u0142dowy"
+      },
+      {
+        "eng": "surgeon",
+        "pl": "chirurg"
+      },
+      {
+        "eng": "tailor",
+        "pl": "krawiec m\u0119ski"
+      },
+      {
+        "eng": "taxi driver",
+        "pl": "taks\u00f3wkarz"
+      },
+      {
+        "eng": "translator",
+        "pl": "t\u0142umacz"
+      },
+      {
+        "eng": "travel agent",
+        "pl": "agent biura podr\u00f3\u017cy"
+      },
+      {
+        "eng": "TV presenter",
+        "pl": "prezenter telewizyjny"
+      },
+      {
+        "eng": "vet",
+        "pl": "weterynarz"
+      },
+      {
+        "eng": "waiter",
+        "pl": "kelner"
+      },
+      {
+        "eng": "waitress",
+        "pl": "kelnerka"
+      }
+    ],
+    "Przymiotniki opisuj\u0105ce prac\u0119": [
+      {
+        "eng": "badly paid",
+        "pl": "\u017ale p\u0142atny"
+      },
+      {
+        "eng": "full-time",
+        "pl": "pe\u0142noetatowy"
+      },
+      {
+        "eng": "manual",
+        "pl": "fizyczny"
+      },
+      {
+        "eng": "monotonous",
+        "pl": "monotonny"
+      },
+      {
+        "eng": "part-time",
+        "pl": "w niepe\u0142nym wymiarze godzin"
+      },
+      {
+        "eng": "permanent",
+        "pl": "sta\u0142y"
+      },
+      {
+        "eng": "satisfying",
+        "pl": "satysfakcjonuj\u0105cy"
+      },
+      {
+        "eng": "stressful",
+        "pl": "stresuj\u0105cy"
+      },
+      {
+        "eng": "temporary",
+        "pl": "tymczasowy"
+      },
+      {
+        "eng": "well-paid",
+        "pl": "dobrze p\u0142atny"
+      }
+    ],
+    "W poszukiwaniu pracy": [
+      {
+        "eng": "applicant",
+        "pl": "osoba staraj\u0105ca si\u0119 o prac\u0119"
+      },
+      {
+        "eng": "candidate",
+        "pl": "kandydat"
+      },
+      {
+        "eng": "suitable candidate",
+        "pl": "odpowiedni kandydat"
+      },
+      {
+        "eng": "work contract",
+        "pl": "umowa o prac\u0119, kontrakt"
+      },
+      {
+        "eng": "curriculum vitae",
+        "pl": "\u017cyciorys, CV"
+      },
+      {
+        "eng": "employment contract",
+        "pl": "umowa o prac\u0119"
+      },
+      {
+        "eng": "experience",
+        "pl": "do\u015bwiadczenie"
+      },
+      {
+        "eng": "five years' experience",
+        "pl": "pi\u0119cioletnie do\u015bwiadczenie"
+      },
+      {
+        "eng": "previous experience",
+        "pl": "dotychczasowe do\u015bwiadczenie"
+      },
+      {
+        "eng": "work experience",
+        "pl": "do\u015bwiadczenie zawodowe"
+      },
+      {
+        "eng": "form",
+        "pl": "formularz"
+      },
+      {
+        "eng": "application form",
+        "pl": "formularz podania o prac\u0119"
+      },
+      {
+        "eng": "job interview",
+        "pl": "rozmowa kwalifikacyjna"
+      },
+      {
+        "eng": "interviewer",
+        "pl": "osoba przeprowadzaj\u0105ca rozmow\u0119 kwalifikacyjn\u0105"
+      },
+      {
+        "eng": "job",
+        "pl": "zaw\u00f3d, praca"
+      },
+      {
+        "eng": "current job",
+        "pl": "obecna praca"
+      },
+      {
+        "eng": "job advertisement",
+        "pl": "og\u0142oszenie o pracy"
+      },
+      {
+        "eng": "job application",
+        "pl": "podanie o prac\u0119"
+      },
+      {
+        "eng": "job centre",
+        "pl": "biuro po\u015brednictwa pracy"
+      },
+      {
+        "eng": "odd jobs",
+        "pl": "r\u00f3\u017cnorodne, drobne prace na zlecenie"
+      },
+      {
+        "eng": "letter of reference",
+        "pl": "list referencyjny"
+      },
+      {
+        "eng": "occupation",
+        "pl": "zaw\u00f3d"
+      },
+      {
+        "eng": "opportunity",
+        "pl": "okazja, szansa"
+      },
+      {
+        "eng": "personal details",
+        "pl": "dane osobowe"
+      },
+      {
+        "eng": "position",
+        "pl": "stanowisko, posada"
+      },
+      {
+        "eng": "profession",
+        "pl": "zaw\u00f3d (wymagaj\u0105cy kwalifikacji)"
+      },
+      {
+        "eng": "by profession",
+        "pl": "z zawodu"
+      },
+      {
+        "eng": "qualifications",
+        "pl": "kwalifikacje"
+      },
+      {
+        "eng": "recruitment",
+        "pl": "rekrutacja"
+      },
+      {
+        "eng": "skills",
+        "pl": "umiej\u0119tno\u015bci"
+      },
+      {
+        "eng": "administrative skills",
+        "pl": "imiej\u0119tno\u015bci administracyjne"
+      },
+      {
+        "eng": "communication skills",
+        "pl": "umiej\u0119tno\u015bci komunikacyjne"
+      },
+      {
+        "eng": "IT skills",
+        "pl": "umiej\u0119tno\u015b\u0107 obs\u0142ugi komputera"
+      },
+      {
+        "eng": "language skills",
+        "pl": "znajomo\u015b\u0107 j\u0119zyka"
+      },
+      {
+        "eng": "organisational skills",
+        "pl": "umiej\u0119tno\u015bci organizacyjne"
+      },
+      {
+        "eng": "training",
+        "pl": "szkolenie"
+      },
+      {
+        "eng": "training session",
+        "pl": "sesja szkoleniowa"
+      },
+      {
+        "eng": "vacancy",
+        "pl": "wolna posada, wakat"
+      },
+      {
+        "eng": "advertise",
+        "pl": "og\u0142asza\u0107"
+      },
+      {
+        "eng": "recruit",
+        "pl": "rekrutowa\u0107"
+      },
+      {
+        "eng": "apply for a job",
+        "pl": "z\u0142o\u017cy\u0107 podanie o prac\u0119"
+      },
+      {
+        "eng": "apply for a position",
+        "pl": "ubiega\u0107 si\u0119 o stanowisko"
+      },
+      {
+        "eng": "attach a CV",
+        "pl": "za\u0142\u0105czy\u0107 \u017cyciorys"
+      },
+      {
+        "eng": "fill in a form",
+        "pl": "wype\u0142ni\u0107 formularz"
+      },
+      {
+        "eng": "find a job",
+        "pl": "znale\u017a\u0107 prac\u0119"
+      },
+      {
+        "eng": "interview applicants",
+        "pl": "przeprowadza\u0107 rozmow\u0119 kwalifikacyjn\u0105 z kandydatem"
+      },
+      {
+        "eng": "look for a job",
+        "pl": "szuka\u0107 pracy"
+      },
+      {
+        "eng": "sign a work contract",
+        "pl": "podpisa\u0107 umow\u0119 o prac\u0119"
+      },
+      {
+        "eng": "the job involves dealing with people",
+        "pl": "praca wymaga kontakt\u00f3w z lud\u017ami"
+      }
+    ]
   }
 }
