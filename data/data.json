@@ -4171,6 +4171,570 @@
         "eng": "the job involves dealing with people",
         "pl": "praca wymaga kontakt\u00f3w z lud\u017ami"
       }
+    ],
+    "Praca i pieni\u0105dze": [
+      {
+        "eng": "bonus",
+        "pl": "premia"
+      },
+      {
+        "eng": "annual bonus",
+        "pl": "roczna premia"
+      },
+      {
+        "eng": "earnings",
+        "pl": "zarobki"
+      },
+      {
+        "eng": "fee",
+        "pl": "wynagrodzenie za us\u0142ugi (np. lekarzy, adwokat\u00f3w)"
+      },
+      {
+        "eng": "fringe benefits",
+        "pl": "\u015bwiadczenia dodatkowe"
+      },
+      {
+        "eng": "income",
+        "pl": "doch\u00f3d"
+      },
+      {
+        "eng": "minimum wage",
+        "pl": "p\u0142aca minimalna"
+      },
+      {
+        "eng": "pay",
+        "pl": "p\u0142aca"
+      },
+      {
+        "eng": "decent pay",
+        "pl": "przyzwoita p\u0142aca"
+      },
+      {
+        "eng": "pay rise",
+        "pl": "podwy\u017cka wynagrodzenia"
+      },
+      {
+        "eng": "reasonable pay",
+        "pl": "rozs\u0105dna p\u0142aca"
+      },
+      {
+        "eng": "sick pay",
+        "pl": "wynagrodzenie za czas choroby"
+      },
+      {
+        "eng": "pension",
+        "pl": "emerytura (pieni\u0105dze)"
+      },
+      {
+        "eng": "profit",
+        "pl": "zysk"
+      },
+      {
+        "eng": "salary",
+        "pl": "pensja"
+      },
+      {
+        "eng": "starting salary",
+        "pl": "pensja pocz\u0105tkowa"
+      },
+      {
+        "eng": "competitive salary",
+        "pl": "konkurencyjne wynagrodzenie"
+      },
+      {
+        "eng": "tax",
+        "pl": "podatek"
+      },
+      {
+        "eng": "tip",
+        "pl": "napiwek"
+      },
+      {
+        "eng": "wages",
+        "pl": "p\u0142aca tygodniowa, dzienna lub godzinowa"
+      },
+      {
+        "eng": "earn",
+        "pl": "zarabia\u0107"
+      },
+      {
+        "eng": "pay",
+        "pl": "p\u0142aci\u0107"
+      },
+      {
+        "eng": "get a pay rise",
+        "pl": "dosta\u0107 podwy\u017ck\u0119"
+      },
+      {
+        "eng": "get paid",
+        "pl": "otrzyma\u0107 wyp\u0142at\u0119"
+      },
+      {
+        "eng": "get paid overtime",
+        "pl": "otrzyma\u0107 wynagrodzenie za prac\u0119 w nadgodzinach"
+      }
+    ],
+    "Pracownicy": [
+      {
+        "eng": "boss",
+        "pl": "szef"
+      },
+      {
+        "eng": "chief executive officer",
+        "pl": "dyrektor generalny"
+      },
+      {
+        "eng": "workmate",
+        "pl": "kolega z pracy"
+      },
+      {
+        "eng": "employee",
+        "pl": "pracownik"
+      },
+      {
+        "eng": "employer",
+        "pl": "pracodawca"
+      },
+      {
+        "eng": "staff",
+        "pl": "personel"
+      },
+      {
+        "eng": "support staff",
+        "pl": "pracownicy obs\u0142ugi technicznej"
+      },
+      {
+        "eng": "team",
+        "pl": "zesp\u00f3\u0142"
+      },
+      {
+        "eng": "team worker",
+        "pl": "cz\u0142onek zespo\u0142u"
+      },
+      {
+        "eng": "worker",
+        "pl": "pracownik fizyczny"
+      },
+      {
+        "eng": "factory worker",
+        "pl": "pracownik fabryki"
+      }
+    ],
+    "W pracy": [
+      {
+        "eng": "career",
+        "pl": "kariera zawodowa"
+      },
+      {
+        "eng": "career prospects",
+        "pl": "perspektywa rozwoju zawodowego"
+      },
+      {
+        "eng": "company",
+        "pl": "firma, przedsi\u0119biorstwo"
+      },
+      {
+        "eng": "deadline",
+        "pl": "termin wykonania zadania/pracy"
+      },
+      {
+        "eng": "employment",
+        "pl": "zatrudnienie"
+      },
+      {
+        "eng": "hard work",
+        "pl": "ci\u0119\u017cka praca"
+      },
+      {
+        "eng": "management",
+        "pl": "zarz\u0105dzanie"
+      },
+      {
+        "eng": "office",
+        "pl": "biuro"
+      },
+      {
+        "eng": "overwork",
+        "pl": "przepracowanie"
+      },
+      {
+        "eng": "service sector",
+        "pl": "sektor us\u0142ug"
+      },
+      {
+        "eng": "teamwork",
+        "pl": "praca zespo\u0142owa"
+      },
+      {
+        "eng": "trade union",
+        "pl": "zwi\u0105zek zawodowy"
+      },
+      {
+        "eng": "working conditions",
+        "pl": "warunki pracy"
+      },
+      {
+        "eng": "workplace",
+        "pl": "miejsce pracy"
+      },
+      {
+        "eng": "assist sb",
+        "pl": "pomagac, asystowa\u0107 komu\u015b"
+      },
+      {
+        "eng": "employ",
+        "pl": "zatrudnia\u0107"
+      },
+      {
+        "eng": "manage",
+        "pl": "zarz\u0105dza\u0107"
+      },
+      {
+        "eng": "work",
+        "pl": "pracowa\u0107"
+      },
+      {
+        "eng": "be at work",
+        "pl": "by\u0107 w pracy"
+      },
+      {
+        "eng": "be good at sth",
+        "pl": "by\u0107 w czym\u015b dobrym"
+      },
+      {
+        "eng": "be in charge of sth",
+        "pl": "kierowa\u0107 czym\u015b, by\u015b za co\u015b odpowiedzialnym"
+      },
+      {
+        "eng": "be on duty",
+        "pl": "by\u0107 na dy\u017curze"
+      },
+      {
+        "eng": "be on strike",
+        "pl": "strajkowa\u0107"
+      },
+      {
+        "eng": "be open for business",
+        "pl": "by\u0107 czynnym (o sklepie)"
+      },
+      {
+        "eng": "be part of a team",
+        "pl": "by\u0107 cz\u0119\u015bci\u0105 zespo\u0142u"
+      },
+      {
+        "eng": "be punctual",
+        "pl": "by\u0107 punktualnym"
+      },
+      {
+        "eng": "be qualified",
+        "pl": "by\u0107 wykwalifikowanym"
+      },
+      {
+        "eng": "be responsible for sth",
+        "pl": "by\u0107 odpowiedzialnym za cos"
+      },
+      {
+        "eng": "be self-employed",
+        "pl": "prowadzi\u0107 dzia\u0142alno\u015b\u0107 gospodarcz\u0105, pracowa\u0107 na w\u0142asny rachunek"
+      },
+      {
+        "eng": "be promoted",
+        "pl": "awansowa\u0107"
+      },
+      {
+        "eng": "clock in",
+        "pl": "odbi\u0107 kart\u0119 zegarow\u0105, przychodz\u0105c do pracy"
+      },
+      {
+        "eng": "deal with people",
+        "pl": "pracowa\u0107 z lud\u017ami"
+      },
+      {
+        "eng": "do a hard day's work",
+        "pl": "pracowa\u0107 ci\u0119\u017cko ca\u0142y dzie\u0144"
+      },
+      {
+        "eng": "do a training course",
+        "pl": "bra\u0107 udzia\u0142 w szkoleniu"
+      },
+      {
+        "eng": "do one's job well",
+        "pl": "wykonywa\u0107 dobrze swoj\u0105 prac\u0119"
+      },
+      {
+        "eng": "do physical work",
+        "pl": "pracowa\u0107 fizycznie"
+      },
+      {
+        "eng": "earn a living",
+        "pl": "zarabia\u0107 na \u017cycie"
+      },
+      {
+        "eng": "work overtime",
+        "pl": "pracowa\u0107 w nadgodzinach"
+      },
+      {
+        "eng": "get a job",
+        "pl": "dosta\u0107 prac\u0119"
+      },
+      {
+        "eng": "give sb a hand",
+        "pl": "pomaga\u0107 komu\u015b"
+      },
+      {
+        "eng": "go on strike",
+        "pl": "i\u015b\u0107 na strajk"
+      },
+      {
+        "eng": "go to work",
+        "pl": "i\u015b\u0107 do pracy"
+      },
+      {
+        "eng": "pay per hour",
+        "pl": "p\u0142acic za godzin\u0119 pracy"
+      },
+      {
+        "eng": "pay per month",
+        "pl": "p\u0142aci\u0107 za miesi\u0105c pracy"
+      },
+      {
+        "eng": "pay per week",
+        "pl": "p\u0142aci\u0107 za tydzie\u0144 pracy"
+      },
+      {
+        "eng": "run one's own business",
+        "pl": "prowadzi\u0107 p\u0142asn\u0105 firm\u0119"
+      },
+      {
+        "eng": "start one's own business",
+        "pl": "za\u0142o\u017cy\u0107 w\u0142asn\u0105 firm\u0119"
+      },
+      {
+        "eng": "take over duties from sb",
+        "pl": "przejmowa\u0107 od kogo\u015b obowi\u0105zki"
+      },
+      {
+        "eng": "work well in a team",
+        "pl": "dobrze pracowa\u0107 w zespole"
+      },
+      {
+        "eng": "work as an engineer",
+        "pl": "pracowa\u0107 jako in\u017cynier"
+      },
+      {
+        "eng": "work for a company",
+        "pl": "pracowa\u0107 w firmie"
+      },
+      {
+        "eng": "work from home",
+        "pl": "pracowa\u0107 z domu"
+      },
+      {
+        "eng": "work hard",
+        "pl": "ci\u0119\u017cko pracowa\u0107"
+      },
+      {
+        "eng": "work long hours",
+        "pl": "pracowa\u0107 wiele godzin dziennie"
+      },
+      {
+        "eng": "work on one's own",
+        "pl": "pracowa\u0107 samodzielnie"
+      },
+      {
+        "eng": "work on sth",
+        "pl": "pracowa\u0107 nad czym\u015b"
+      },
+      {
+        "eng": "work shifts",
+        "pl": "pracowa\u0107 na zmiany"
+      },
+      {
+        "eng": "work to deadlines",
+        "pl": "pracowa\u0107 z zachowaniem termin\u00f3w"
+      },
+      {
+        "eng": "work under pressure",
+        "pl": "pracowa\u0107 pod presj\u0105"
+      },
+      {
+        "eng": "work with somebody",
+        "pl": "pracowa\u0107 z kim\u015b"
+      }
+    ],
+    "Urlopy i zwolnienia": [
+      {
+        "eng": "holiday",
+        "pl": "urlop"
+      },
+      {
+        "eng": "bank holiday",
+        "pl": "dzie\u0144 wolny od pracy (\u015bwi\u0119to)"
+      },
+      {
+        "eng": "leave",
+        "pl": "urlop, zwolnienie"
+      },
+      {
+        "eng": "maternity leave",
+        "pl": "urlop macierzy\u0144ski"
+      },
+      {
+        "eng": "paid leave",
+        "pl": "urlop p\u0142atny"
+      },
+      {
+        "eng": "sick leave",
+        "pl": "zwolnienie lekarskie"
+      },
+      {
+        "eng": "be off sick",
+        "pl": "by\u0107 na zwolnieniu lekarskim"
+      },
+      {
+        "eng": "be on holiday",
+        "pl": "by\u0107 na urlopie"
+      },
+      {
+        "eng": "take a week's leave",
+        "pl": "wzi\u0105\u0107 tydzie\u0144 urlopu"
+      },
+      {
+        "eng": "take a day off work",
+        "pl": "wzi\u0105\u0107 dzie\u0144 wolny"
+      }
+    ],
+    "Brak zatrudnienia": [
+      {
+        "eng": "economic crisis",
+        "pl": "kryzys gospodarczy"
+      },
+      {
+        "eng": "job losses",
+        "pl": "zlikwidowanie miejsca pracy"
+      },
+      {
+        "eng": "pensioner",
+        "pl": "emeryt"
+      },
+      {
+        "eng": "retirement",
+        "pl": "emerytura (okres w \u017cyciu cz\u0142owieka)"
+      },
+      {
+        "eng": "early retirement",
+        "pl": "wcze\u015bniejsza emerytura"
+      },
+      {
+        "eng": "unemployed",
+        "pl": "bezrobotny"
+      },
+      {
+        "eng": "unemployment",
+        "pl": "bezrobocie"
+      },
+      {
+        "eng": "high unemployment",
+        "pl": "wysokie bezrobocie"
+      },
+      {
+        "eng": "low unemployment",
+        "pl": "niskie bezrobocie"
+      },
+      {
+        "eng": "unemployment benefit",
+        "pl": "zasi\u0142ek dla bezrobotnych"
+      },
+      {
+        "eng": "resign",
+        "pl": "z\u0142o\u017cy\u0107 wypowiedzenie"
+      },
+      {
+        "eng": "retire",
+        "pl": "odej\u015b\u0107 na emerytur\u0119"
+      },
+      {
+        "eng": "be on the dole",
+        "pl": "by\u0107 na zasi\u0142ku dla bezrobotnych"
+      },
+      {
+        "eng": "close down a company",
+        "pl": "zamkn\u0105\u0107 firm\u0119"
+      },
+      {
+        "eng": "fire sb",
+        "pl": "zwolni\u0107 kogo\u015b z pracy"
+      },
+      {
+        "eng": "quit one's job",
+        "pl": "rzuci\u0107 prac\u0119"
+      },
+      {
+        "eng": "go bankrupt",
+        "pl": "zbankrutowa\u0107"
+      },
+      {
+        "eng": "hand in one's resignation",
+        "pl": "z\u0142o\u017cy\u0107 wypowiedzenie"
+      },
+      {
+        "eng": "leave a job",
+        "pl": "odej\u015b\u0107 z pracy"
+      },
+      {
+        "eng": "lose one's job",
+        "pl": "straci\u0107 prac\u0119"
+      },
+      {
+        "eng": "make sb redundant",
+        "pl": "zwolni\u0107 kogo\u015b z powodu redukcji etat\u00f3w"
+      }
+    ],
+    "Praca dorywcza": [
+      {
+        "eng": "au pair",
+        "pl": "au pair"
+      },
+      {
+        "eng": "babysitter",
+        "pl": "opiekun/opiekunka do dziecka"
+      },
+      {
+        "eng": "fruit picking",
+        "pl": "zbieranie owoc\u00f3w"
+      },
+      {
+        "eng": "fruit picker",
+        "pl": "osoba zbieraj\u0105ca owoce"
+      },
+      {
+        "eng": "summer job",
+        "pl": "praca wakacyjna"
+      },
+      {
+        "eng": "lifeguard",
+        "pl": "ratownik/ratowniczka"
+      },
+      {
+        "eng": "pizza delivery",
+        "pl": "dostawca pizzy"
+      },
+      {
+        "eng": "seasonal work",
+        "pl": "praca sezonowa"
+      },
+      {
+        "eng": "summer camp supervisor",
+        "pl": "kierownik obozy wakacyjnego"
+      },
+      {
+        "eng": "tour guide",
+        "pl": "przewodnik"
+      },
+      {
+        "eng": "voluntary work",
+        "pl": "wolontariat"
+      }
     ]
   }
 }
